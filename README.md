@@ -1,10 +1,9 @@
-## Hi there 👋
 
-###Value investor and analysist.
-##Macro economics analyist.
-##Value investor by Discount Cash Flows models and pricing models.
-##coding in PAYTHON
-##coding in JAVA
+### Value investor and analysist.
+## Macro economics analyist.
+## Value investor by Discount Cash Flows models and pricing models.
+## coding in PAYTHON
+## coding in JAVA
 <!--
 **Royd12386/Royd12386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
