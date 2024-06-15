@@ -1,5 +1,5 @@
 
-### Value investor and analysist.
+# Value investor and analysist.
 ## Macro economics analyist.
 ## Value investor by Discount Cash Flows models and pricing models.
 ## coding in PAYTHON
